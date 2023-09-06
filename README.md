@@ -1,6 +1,6 @@
-# PrakasHUB Blog
+# Prakash Daries Blog
 
-Welcome to PrakasHUB Blog! This repository contains the source code for the PrakasHUB blog, where we share insightful articles and resources related to various topics.
+Welcome to Prakash Daries Blog! This repository contains the source code for the Prakash Daries blog, where we share insightful articles and resources related to various topics.
 
 ## Technologies Used
 
@@ -17,7 +17,7 @@ Welcome to PrakasHUB Blog! This repository contains the source code for the Prak
 
 ## Installation
 
-To run the PrakasHUB blog locally, please follow these steps:
+To run the Prakash Daries blog locally, please follow these steps:
 
 1. Clone this repository: `git clone https://github.com/PrakasRavichandran/Personal-Blog.git`
 2. Navigate to the project directory: `cd Personal-Blog`
@@ -27,7 +27,7 @@ To run the PrakasHUB blog locally, please follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to the PrakasHUB blog, please follow these steps:
+Contributions are welcome! If you'd like to contribute to the Prakash Daries blog, please follow these steps:
 
 1. Fork this repository.
 2. Create a new branch: `git checkout -b my-feature`
@@ -45,7 +45,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions, suggestions, or feedback, please feel free to reach out to us.
 
-*We hope you find the PrakasHUB Blog informative and engaging! Enjoy reading!*
+*We hope you find the Prakash Daries Blog informative and engaging! Enjoy reading!*
 
 
 
