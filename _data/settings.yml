@@ -111,8 +111,8 @@ footer__menu__settings:
 #-------------------------------
 # Contact Settings
 contact:
-  email: info@prakashravichandran.com   # Add your form_id
-  description: PrakasHub comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: xjvqrpjl   # Add your form_id
+  description: Feel free to drop me a message anytime. I'm here to connect with you and hear your thoughts, questions, or just have a friendly chat. Your messages are always welcome.
 
 # NOTE
 # PrakasHub theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
