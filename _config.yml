@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseurl: "/bloggy" # the subpath of your site, e.g. /blog
+baseurl: "/Personal-Blog" # the subpath of your site, e.g. /blog
 url: "https://prakashravichandrann.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
