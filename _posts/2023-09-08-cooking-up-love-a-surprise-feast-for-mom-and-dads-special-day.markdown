@@ -2,7 +2,7 @@
 layout: post
 title:  Cooking Up Love A Surprise Feast for Mom and Dad's Special Day
 description:  On September 11, 2022, I woke up to the realization that it was my mom and dad's wedding anniversary.
-date:   2023-09-08 19:10:35 +0300
+date:  2023-09-08 21:40:35 +0300
 author: prakash
 image:  '/images/16.jpg'
 video_embed: false
@@ -37,7 +37,7 @@ Next up was my dad's beloved masala vada. Fortunately, I had most of the necessa
 
 ### Milk Vermicelli and Masala Vada: A Feast for the Heart 
 
-I heated a pan on the gas stove, poured in oil, and once it reached the right temperature, I gently introduced the round patties into the sizzling oil. The aroma that filled the kitchen was simply irresistible. In no time, dad's favorite masala vada was ready, golden and crisp.
+I heated a pan on the gas stove, poured in oil, and once it reached the right temperature, I gently introduced the round patties into the sizzling oil. The aroma that filled the kitchen was simply irresistible. In no time, Dad's favorite masala vada was ready, golden and crisp.
 
 With both dishes prepared, I packed them into a traditional brass vessel. Then, with my heart pounding with excitement, I headed downstairs to present the surprise feast to my parents.
 
@@ -48,7 +48,7 @@ With both dishes prepared, I packed them into a traditional brass vessel. Then, 
 
 ### A Surprise Unveiled: Tears of Joy and Laughter
 
-Curious, they asked, "What's all this?" I simply said, "Open it." As they unveiled the contents of the brass vessel, their faces lit up with surprise and delight. Mom and dad shared smiles and even a few tears of joy. I embraced my mom, and together we wished them a happy anniversary, feeling the warmth of their love.
+Curious, they asked, "What's all this?" I simply said, "Open it." As they unveiled the contents of the brass vessel, their faces lit up with surprise and delight. Mom and Dad shared smiles and even a few tears of joy. I embraced my mom, and together we wished them a happy anniversary, feeling the warmth of their love.
 
 Not wanting the delicious food to go to waste, I decided to share it with our farm laborers. They were astounded by the culinary delights and showered me with compliments, saying, "Your future wife will be lucky to have such a talented cook." I even gave some extra masala vada to one of the workers, earning a round of applause for my generosity.
 
@@ -61,4 +61,4 @@ Not wanting the delicious food to go to waste, I decided to share it with our fa
 
 They later shared the heartwarming story of what I had done for my parents' wedding anniversary with  my relatives, grandma's friends, my neighbours. Laughter and tears were shared, and it became a cherished memory, reminding us all that sometimes the best surprises are those that come from the heart.
 
->In the whirlwind of life, sometimes the best surprises come when you least expect them
+>In the whirlwind of life, sometimes the best surprises come when you least expect them.
