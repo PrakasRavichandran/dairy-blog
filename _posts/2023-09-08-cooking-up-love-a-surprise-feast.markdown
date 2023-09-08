@@ -1,46 +1,52 @@
 ---
 layout: post
-title:  You only live once, but if you do it right, once is enough
-description: These complex processes, called physiological functions, have underlying physical and chemical bases, as well as signaling and control mechanisms that are essential to maintaining life.
-date:   2023-09-08 22:08:35 +0300
+title:  Cooking Up Love A Surprise Feast for Mom and Dad's Special Day
+description:  On September 11, 2022, I woke up to the realization that it was my mom and dad's wedding anniversary.
+date:   2023-09-08 22:15:35 +0300
 author: prakash
-image:  '/images/12.jpg'
-tags:   [productivity]
-tags_color: '#618770'
+image:  '/images/01.jpg'
+video_embed: false
+tags:  [cooking]
+tags_color: '#ff9a03'
 featured: true
 ---
-In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.
 
-Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.
+### A Forgotten Date, A Whirlwind Surprise
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+On September 11, 2022, I woke up to the realization that it was my mom and dad's wedding anniversary. The date had somehow slipped my mind, and panic set in as I scrambled to make their day special.
 
-Imprinting is a kind of learning occurring at a particular life stage that is rapid and apparently independent of the consequences of behavior. In filial imprinting, young animals, particularly birds, form an association with another individual or in some cases, an object, that they respond to as they would to a parent. In 1935, the Austrian Zoologist Konrad Lorenz discovered that certain birds follow and form a bond if the object makes sounds.
+My dad's love for masala vada and my mom's adoration for milk vermicelli pudding, a famous Tamil liquid sweet, were the inspiration I needed. I decided to take matters into my own hands and whip up a surprise feast for them.
 
-### Formal learning
+With a determined spirit, I headed to the kitchen, ready to create a culinary masterpiece. I made a list of all the ingredients required and rushed to the nearby shop to gather milk, vermicelli, cashew nuts, ghee, jaggery, and cardamom, among other things.
 
-These five types of play are often intersecting. All types of play generate thinking and problem-solving skills in children. Children learn to think creatively when they learn through play. Specific activities involved in each type of play change over time as humans progress through the lifespan. Play as a form of learning, can occur solitarily, or involve interacting.
+>In the hustle of life, even the most important dates can slip through the cracks
 
-Enculturation is the process by which people learn values and behaviors that are appropriate or necessary in their surrounding culture. This is different from acculturation, where a person adopts the values and societal rules of a culture different from their native.
+### Secret Recipes and Sentimental Dishes
 
-Electronic learning or e-learning is computer-enhanced learning. A specific and always more diffused e-learning is mobile learning (m-learning), which uses different mobile telecommunication equipment, such as cellular phones.
+First, I began by boiling water and adding jaggery, letting it dissolve to create a sweet syrup. Then, I introduced the ghee-fried vermicelli and sabudana into the mix, creating a delightful concoction that was soon brought to a boil again. After adding milk and cardamom, I allowed it to simmer for 10 minutes until my mom's favorite dish was ready to charm her taste buds.
 
-When a learner interacts with the e-learning environment, it's called augmented learning. By adapting to the needs of individuals, the context-driven instruction can be dynamically tailored to the learner's natural environment. Augmented digital content may include text, images, video, audio (music and voice). By personalizing instruction, augmented learning has been shown to improve learning performance for a lifetime. See also minimally invasive.
+Next up was my dad's beloved masala vada. Fortunately, I had most of the necessary ingredients on hand. I soaked split Bengal gram dal in water for 30 minutes and set to work on my secret masala recipe. It involved ground pepper, garlic, dry red chili, and salt, and it was a formula known only to me. I ground the soaked dal until it resembled sand and mixed it with the masala. Shaping the mixture into round patties, I prepared to fry them to perfection.
 
-Rote learning is memorizing information so that it can be recalled by the learner exactly the way it was read or heard. The major technique used for rote learning is learning by repetition, based on the idea that a learner can recall the material exactly (but not its meaning) if the information is repeatedly processed. Rote learning is used in diverse areas, from mathematics to music to religion. Although it has been criticized by some educators, rote learning is a necessary precursor to meaningful learning.
+>In the kitchen, I found the perfect ingredients for love and nostalgia
 
-Nonformal learning is organized learning outside the formal learning system. For example, learning by coming together with people with similar interests and exchanging viewpoints, in clubs or in (international) youth organizations, workshops.
+### Milk Vermicelli and Masala Vada: A Feast for the Heart 
 
-Informal learning is less structured than "nonformal" one. It may occur through the experience of day-to-day situations (for example, one would learn to look ahead while walking because of the danger inherent in not paying attention to where one is going). It is learning from life, during a meal at the table with parents, play, exploring, etc.
+I heated a pan on the gas stove, poured in oil, and once it reached the right temperature, I gently introduced the round patties into the sizzling oil. The aroma that filled the kitchen was simply irresistible. In no time, Dad's favorite masala vada was ready, golden and crisp.
 
-> Sing like no one’s listening, love like you’ve never been hurt, dance like nobody’s watching, and live like it’s heaven on earth.
+With both dishes prepared, I packed them into a traditional brass vessel. Then, with my heart pounding with excitement, I headed downstairs to present the surprise feast to my parents.
 
-The educational system may use a combination of formal, informal, and nonformal learning methods. The UN and EU recognize these different forms of learning (cf. links below). In some schools, students can get points that count in the formal-learning systems if they get work done in informal-learning circuits. They may be given time to assist international youth workshops and training courses, on the condition they prepare, contribute, share, and can prove this offered valuable new insight, helped to acquire new skills, a place to experience.
+>The way to the heart is often through the stomach, and I had two hearts to please
 
-### Internal factors
+### A Surprise Unveiled: Tears of Joy and Laughter
 
-Play, as it pertains to humans as a form of learning is central to a child's learning and development. Through play, children learn social skills such as sharing and collaboration. Children develop emotional skills such as learning to deal with the emotion of anger, through play activities. As a form of learning, play also facilitates the development of thinking and language skills in children.
+Curious, they asked, "What's all this?" I simply said, "Open it." As they unveiled the contents of the brass vessel, their faces lit up with surprise and delight. Mom and Dad shared smiles and even a few tears of joy. I embraced my mom, and together we wished them a happy anniversary, feeling the warmth of their love.
 
-Transfer of learning is the application of skill, knowledge or understanding to resolve a novel problem or situation that happens when certain conditions are fulfilled. Research indicates that learning transfer is infrequent; most common when "... cued, primed, and guided..." and has sought to clarify what it is, and how it might be promoted through.
+Not wanting the delicious food to go to waste, I decided to share it with our farm laborers. They were astounded by the culinary delights and showered me with compliments, saying, "Your future wife will be lucky to have such a talented cook." I even gave some extra masala vada to one of the workers, earning a round of applause for my generosity.
 
-In incidental teaching learning is not planned by the instructor or the student, it occurs as a byproduct of another activity — an experience, observation, self-reflection, interaction, unique event, or common routine task. This learning happens in addition to or apart from the instructor's plans and the student's expectations. An example of incidental teaching.
+>In sharing the feast, I discovered that love multiplies when you give from the heart
+
+### From Generosity to Blessings: A Celebration of Love
+
+They later shared the heartwarming story of what I had done for my parents' wedding anniversary with  my relatives, grandma's friends, my neighbours. Laughter and tears were shared, and it became a cherished memory, reminding us all that sometimes the best surprises are those that come from the heart.
+
+>In the whirlwind of life, sometimes the best surprises come when you least expect them.
