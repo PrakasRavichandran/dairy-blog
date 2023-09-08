@@ -13,12 +13,12 @@ featured: true
 
 ### Grandpa's Goat Tales: A Comedy and Sentimental Journey
 
-![Goat]({{site.baseurl}}/images/01.jpg)
-*Photo by [Prakash](https://prakashravichandran.com/)*
-
 Once upon a time, in a small village nestled amidst rolling hills and endless green pastures, lived my dear grandpa. He was a man of many passions, but none quite as endearing as his love for goats. Yes, you heard me right – goats! Not the usual choice of animal companions for most people, but for my grandpa, they were his world.
 
 I remember those days like they were yesterday. Our backyard was always filled with goats of all shapes and sizes, and my grandpa treated them like they were his own grandchildren. It was a sight to behold! He would talk to them, feed them, and even sing them lullabies. My grandpa had the magical ability to communicate with goats in a way that left the rest of us scratching our heads in amusement.
+
+![Goat]({{site.baseurl}}/images/01.jpg)
+*Photo by [Prakash](https://prakashravichandran.com/)*
 
 Every year, like clockwork, Grandpa would sell a few goats. But those days were anything but cheerful. He would mope around the house, eat the tiniest morsels of food, and then, in a dramatic fashion, retire to bed early. It was as if he was mourning the loss of a family member, and in his eyes, he probably was.
 
