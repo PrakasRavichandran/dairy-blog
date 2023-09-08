@@ -13,9 +13,6 @@ featured: true
 
 ### A Forgotten Date, A Whirlwind Surprise
 
-![cooking]({{site.baseurl}}/images/16.jpg)
-*Photo by [Prakash](https://prakashravichandran.com/)*
-
 On September 11, 2022, I woke up to the realization that it was my mom and dad's wedding anniversary. The date had somehow slipped my mind, and panic set in as I scrambled to make their day special.
 
 My dad's love for masala vada and my mom's adoration for milk vermicelli pudding, a famous Tamil liquid sweet, were the inspiration I needed. I decided to take matters into my own hands and whip up a surprise feast for them.
