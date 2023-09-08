@@ -4,7 +4,7 @@ title:  Jinglee The Legacy of My Grandpa's Beloved Goats
 description:  Once upon a time, in a small village nestled amidst rolling hills and endless green pastures, lived my dear grandpa to maintain life.
 date:   2023-09-06 15:20:35 +0300
 author: prakash
-image:  '/images/04.jpg'
+image:  '/images/11.jpg'
 video_embed: false
 tags:  [lifestyle]
 tags_color: '#4c49cb'
@@ -50,3 +50,6 @@ As I approached her, she would wag her little tail furiously and rush towards me
 So, here's to Jinglee, the goat who became not just my pet but a bridge to my past. She embodies the comedy of Grandpa's peculiar goat-loving ways and the sentimentality that binds generations together. In her, I found a piece of my grandpa's heart that continues to beat, reminding me of the enduring love he had for his goats and the lasting legacy he left behind.
 
 > In the comedy of goat antics and the sentiment of shared love, my grandpa's legacy lives on
+
+![Goat]({{site.baseurl}}/images/11.jpg)
+*Photo by [Prakash](https://prakashravichandran.com/)*
