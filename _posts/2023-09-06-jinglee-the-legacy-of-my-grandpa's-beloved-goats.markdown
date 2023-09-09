@@ -51,5 +51,5 @@ So, here's to Jinglee, the goat who became not just my pet but a bridge to my pa
 
 > In the comedy of goat antics and the sentiment of shared love, my grandpa's legacy lives on
 
-![Goat]({{site.baseurl}}/images/11.jpg)
+![Goat]({{site.baseurl}}/images/04.jpg)
 *Photo by [Prakash](https://prakashravichandran.com/)*
