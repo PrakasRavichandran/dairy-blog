@@ -4,7 +4,7 @@ title:  Cooking Up Love A Surprise Feast for Mom and Dad's Special Day
 description:  On September 11, 2022, I woke up to the realization that it was my mom and dad's wedding anniversary.
 date:   2023-09-08 22:15:35 +0300
 author: prakash
-image:  '/images/01.jpg'
+image:  '/images/16.jpg'
 video_embed: false
 tags:  [cooking]
 tags_color: '#ff9a03'
@@ -27,6 +27,9 @@ First, I began by boiling water and adding jaggery, letting it dissolve to creat
 
 Next up was my dad's beloved masala vada. Fortunately, I had most of the necessary ingredients on hand. I soaked split Bengal gram dal in water for 30 minutes and set to work on my secret masala recipe. It involved ground pepper, garlic, dry red chili, and salt, and it was a formula known only to me. I ground the soaked dal until it resembled sand and mixed it with the masala. Shaping the mixture into round patties, I prepared to fry them to perfection.
 
+![cooking]({{site.baseurl}}/images/12.jpg)
+*Photo by [Prakash](https://prakashravichandran.com/)*
+
 >In the kitchen, I found the perfect ingredients for love and nostalgia
 
 ### Milk Vermicelli and Masala Vada: A Feast for the Heart 
@@ -34,6 +37,9 @@ Next up was my dad's beloved masala vada. Fortunately, I had most of the necessa
 I heated a pan on the gas stove, poured in oil, and once it reached the right temperature, I gently introduced the round patties into the sizzling oil. The aroma that filled the kitchen was simply irresistible. In no time, Dad's favorite masala vada was ready, golden and crisp.
 
 With both dishes prepared, I packed them into a traditional brass vessel. Then, with my heart pounding with excitement, I headed downstairs to present the surprise feast to my parents.
+
+![cooking]({{site.baseurl}}/images/13.jpg)
+*Photo by [Prakash](https://prakashravichandran.com/)*
 
 >The way to the heart is often through the stomach, and I had two hearts to please
 
@@ -43,10 +49,16 @@ Curious, they asked, "What's all this?" I simply said, "Open it." As they unveil
 
 Not wanting the delicious food to go to waste, I decided to share it with our farm laborers. They were astounded by the culinary delights and showered me with compliments, saying, "Your future wife will be lucky to have such a talented cook." I even gave some extra masala vada to one of the workers, earning a round of applause for my generosity.
 
+![cooking]({{site.baseurl}}/images/14.jpg)
+*Photo by [Prakash](https://prakashravichandran.com/)*
+
 >In sharing the feast, I discovered that love multiplies when you give from the heart
 
 ### From Generosity to Blessings: A Celebration of Love
 
 They later shared the heartwarming story of what I had done for my parents' wedding anniversary with  my relatives, grandma's friends, my neighbours. Laughter and tears were shared, and it became a cherished memory, reminding us all that sometimes the best surprises are those that come from the heart.
+
+![cooking]({{site.baseurl}}/images/15.jpg)
+*Photo by [Prakash](https://prakashravichandran.com/)*
 
 >In the whirlwind of life, sometimes the best surprises come when you least expect them.
