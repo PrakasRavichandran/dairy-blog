@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Pages of Innocence: My High School Love Story
+title:  Pages of Innocence My High School Love Story
 description:  "Pages of Innocence: My High School Love Story"
 date:   2023-09-10 22:15:35 +0300
 author: prakash
