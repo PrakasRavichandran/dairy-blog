@@ -47,9 +47,6 @@ The train rides took me to bustling destinations like Chennai Central, Parrys, a
 
 In addition to work-related activities, I explored the diverse culinary offerings. Each day brought a new taste adventure as I savored different cuisines from street vendors and local eateries. My palate danced with delight, and I couldn't resist picking up some clothes, shoes, and even a cycle during my shopping escapades.
 
-![travel]({{site.baseurl}}/images/21.jpg)
-*Photo by [Prakash](https://prakashravichandran.com/)*
-
 >In the world of commuting, every vehicle tells a unique story of its own
 
 One of the most enriching aspects of my journey was the people I encountered. I met a multitude of individuals, each with their own story to tell. In those moments of connection, I realized that friendships could be forged even in the most unexpected of places.
