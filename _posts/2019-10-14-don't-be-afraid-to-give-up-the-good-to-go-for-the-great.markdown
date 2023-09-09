@@ -4,7 +4,7 @@ title: Don't be afraid to give up the good to go for the great
 description:
 date: 2022-12-01 15:01:35 +0300
 author: prakash
-image: '/images/16.jpg'
+image: '/images/01.jpg'
 video_embed: https://www.youtube.com/embed/62bWUYRxi8g
 tags: [lifestyle, video]
 tags_color: '#835F46'
