@@ -41,8 +41,20 @@ hero:
 # Author Global Settings
 author:
   author__name: Prakash Ravichandran
-  author__bio: I’m a published content creator, project manager and web devloper..
+  author__bio: I’m a published content creator, project manager and web devloper.
   author__avatar: /images/01-1.jpg
+
+  
+#-------------------------------
+# Author Section Settings
+  author__section:
+  enable: true
+  author__section__title: Hello, I’m Prakash. I’m a published content creator, project manager and web devloper.
+  author__section__description: Project Manager by day, weights by night, Introvert at heart, Blogger of thoughts, Web Developer in action, Pianist in harmony with life
+  aurhor__section__button__text: More About Me
+  aurhor__section__button__link: /about
+  author__section__big__image: /images/heros.jpg
+  author__section__small__image: /images/hero.jpg
 
 
 #-------------------------------
@@ -70,19 +82,19 @@ author:
 
 #-------------------------------
 # Newsletter Settings
-#mailchimp__settings:
-#  enable: true
-#  mailchimp__title: Get interesting news
-#  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of Editor Pick Posts.
-#  mailchimp__identifier: forms.gle/LRzbYVK55w4H7FFHA # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-#  mailchimp__input__text: Your email address
-#  mailchimp__button__text: Subscribe
-#  mailchimp__background__image: /images/subscribe-bg.jpg
+mailchimp__settings:
+  enable: true
+  mailchimp__title: Get interesting news
+  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of Editor Pick Posts.
+  mailchimp__identifier: forms.gle/LRzbYVK55w4H7FFHA # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__input__text: Your email address
+  mailchimp__button__text: Subscribe
+  mailchimp__background__image: /images/subscribe-bg.jpg
 
 
 #-------------------------------
 # Footer Settings
-# footer__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
+footer__description: In the darkness of a broken heart, he searched for the light that once made him feel alive
 
 
 # Social Links
