@@ -39,10 +39,10 @@ hero:
 
 #-------------------------------
 # Author Global Settings
-author:
-  author__name: Prakash Ravichandran
-  author__bio: I’m a published content creator, project manager and web devloper.
-  author__avatar: /images/01-1.jpg
+#author:
+  #author__name: Prakash Ravichandran
+  #author__bio: I’m a published content creator, project manager and web devloper.
+  #author__avatar: /images/01-1.jpg
 
   
 #-------------------------------
@@ -119,15 +119,11 @@ footer__menu__settings:
       url: '/contact/'
     
 
-
 #-------------------------------
 # Contact Settings
 contact:
   email: xjvqrpjl   # Add your form_id
   description: Feel free to drop me a message anytime. I'm here to connect with you and hear your thoughts, questions, or just have a friendly chat. Your messages are always welcome.
-
-# NOTE
-# PrakasHub theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
 
 #-------------------------------
