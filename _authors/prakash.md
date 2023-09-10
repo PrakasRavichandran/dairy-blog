@@ -1,11 +1,10 @@
 ---
 username: prakash
 name: Prakash
-image: "/images/02-1.jpg"
-cover: "/images/07.jpg"
+image: '/images/hero.jpg'
+cover: '/images/19.jpg'
 location: India
-website: https://prakasravichandran.github.io/portfolioo/
+website: https://prakashravichandran.com/
 instagram: https://instagram.com/prakashravichandrann
 linkedin: https://www.linkedin.com/in/prakashravichandran10
 ---
-
