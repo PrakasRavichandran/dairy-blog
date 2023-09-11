@@ -3,7 +3,7 @@
 title: Prakash Daires
 logo: '/images/logo.png'
 description: Prakash Daires is a Personal blog 
-color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -39,22 +39,10 @@ hero:
 
 #-------------------------------
 # Author Global Settings
-#author:
-  #author__name: Prakash Ravichandran
-  #author__bio: I’m a published content creator, project manager and web devloper.
-  #author__avatar: /images/01-1.jpg
-
-  
-#-------------------------------
-# Author Section Settings
-  author__section:
-  enable: true
-  author__section__title: Hello, I’m Prakash. I’m a published content creator, project manager and web devloper.
-  author__section__description: Project Manager by day, weights by night, Introvert at heart, Blogger of thoughts, Web Developer in action, Pianist in harmony with life
-  aurhor__section__button__text: More About Me
-  aurhor__section__button__link: /about
-  author__section__big__image: /images/heros.jpg
-  author__section__small__image: /images/hero.jpg
+author:
+  author__name: Prakash Ravichandran
+  author__bio: I’m a published content creator, project manager and web devloper.
+  author__avatar: /images/heros.jpg
 
 
 #-------------------------------
@@ -79,6 +67,17 @@ hero:
 #  enable: true
 #  tag: travel # To display the tag section, specify your favorite tag.
 
+
+#-------------------------------
+# Author Section Settings
+  author__section:
+  enable: true
+  author__section__title: Hello, I’m Prakash. I’m a published content creator, project manager and web devloper.
+  author__section__description: Project Manager by day, weights by night, Introvert at heart, Blogger of thoughts, Web Developer in action, Pianist in harmony with life
+  aurhor__section__button__text: More About Me
+  aurhor__section__button__link: /about
+  author__section__big__image: /images/heros.jpg
+  author__section__small__image: /images/hero.jpg
 
 #-------------------------------
 # Newsletter Settings
