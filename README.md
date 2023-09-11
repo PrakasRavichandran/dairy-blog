@@ -1,5 +1,7 @@
 # Prakash Daries Blog
 
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fprakashravichandran.com%2F&s=40&c=00ff00&bg=00000000&no=4&ff=digi&tb=Viwers%3A+&ta=)
+
 Welcome to Prakash Daries Blog! This repository contains the source code for the Prakash Daries blog, where we share insightful articles and resources related to various topics.
 
 ## Technologies Used
