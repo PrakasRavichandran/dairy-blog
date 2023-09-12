@@ -31,7 +31,6 @@ After the summer break, I switched to the biology group in the 11th grade. It wa
 ## The Letter Bomb 
 Now, this is where the comedy really takes off. Someone started writing love letters in my name, and believe it or not, I didn't take it too seriously – thought it was all in good fun. During a late-night study sesh, a buddy raised my hand, but she misunderstood, thinking I was trying to be Casanova. The next day, she reported me to our chemistry teacher, who was also a friend. You can imagine the laughs we had when he had to explain the situation.
 
-<img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmibeat.com%2Fphotos%2Ftamil-movies%2F3-10634.html&psig=AOvVaw0MtgEBcnha5k-QlxpVnaJy&ust=1694586118660000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiMyLe3pIEDFQAAAAAdAAAAABA6" loading="lazy" alt="hand">
 
 ## The Suicide Scare 
 Letters kept coming, and I couldn't be bothered. But things took a dark turn when her friend attempted an Oscar-worthy suicide act on campus. We all panicked, thinking our silly letters were to blame. That night during our study time, I finally spotted her, and to my relief, she seemed alright. A real cliffhanger, wasn't it?
