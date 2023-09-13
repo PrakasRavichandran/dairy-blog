@@ -2,7 +2,7 @@
 layout: post
 title: Painful Memories
 description: 
-date: 2023-09-14 22:22:35 +0300
+date: 2023-09-13 22:22:35 +0300
 author: prakash
 image: '/images/broken.jpg'
 video_embed: false
