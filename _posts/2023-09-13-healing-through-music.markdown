@@ -7,7 +7,7 @@ author: prakash
 image: '/images/music.jpg'
 video_embed: false
 tags: [music]
-tags_color: '#343434'
+tags_color: '#a149cb'
 ---
 
 Life has a funny way of pushing us to our limits and then giving us the tools to heal ourselves. The first half of this year was a rollercoaster of pain and despair for me. It felt like I was on the brink of losing everything. But amidst the darkness, I found my ray of hope – the keyboard piano.
