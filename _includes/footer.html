@@ -27,7 +27,7 @@
                </div>
              </div>
      
-             <!--<div class="col col-6 col-d-12">
+             <div class="col col-6 col-d-12">
                <div class="widget-footer widget-recent-posts">
                  <h3 class="widget-recent-posts__title">Recent posts</h3>
                  {% for post in site.posts limit:2 %}
@@ -50,8 +50,8 @@
                        {% assign author = site.authors | where: 'username', post.author | first %}
      
                        {% if author %}
-                       <a href="{{ author.url }}" class="article__author__image">
-                         <img class="lazy" data-src="{{ author.image }}" alt="{{ author.name }}">
+                       <a href="{{site.baseurl}}/{{ author.url }}" class="article__author__image">
+                         <img class="lazy" data-src="{{site.baseurl}}/{{ author.image }}" alt="{{ author.name }}">
                        </a>
                        {% else %}
                        <a href="{{site.baseurl}}/about/" class="article__author__image">
@@ -61,7 +61,7 @@
      
                        <div class="article__meta__bottom">
                          {% if author %}
-                           <a class="article__author__name" href="{{ author.url }}">{{ author.name }}</a>
+                           <a class="article__author__name" href="{{site.baseurl}}/{{ author.url }}">{{ author.name }}</a>
                          {% else %}
                            <a class="article__author__name" href="{{site.baseurl}}/about/">{{site.data.settings.author.author__name}}</a>
                          {% endif %}
@@ -72,7 +72,7 @@
                  </div>
                  {% endfor %}
                </div>
-             </div>-->
+             </div>
  
              <div class="col col-2 col-d-12">
                <div class="widget-footer widget-nav">
