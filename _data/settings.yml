@@ -14,18 +14,12 @@ menu__settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'Authors'
+      url: '/authors'
     - title: 'About'
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
-     #- title: 'Pages'
-      #submenu:
-      #- url: '/about/'
-      #  title: 'About'
-      #- url: '/contact/'
-      #  title: 'Contact'
-      #- url: '/elements/'
-       # title: 'Elements'
 
 
 #-------------------------------
@@ -47,25 +41,25 @@ author:
 
 #-------------------------------
 # Blog Section Settings
-#blog__settings:
-#  enable: true
-#  blog__title: Editor Pick Posts
-#  blog__description:
+blog__settings:
+  enable: true
+  blog__title: Latest Posts
+  blog__description:
 
 
 #-------------------------------
 # Videos Section Settings
-#videos__settings:
-#  enable: true
-#  videos__title: Latest Videos
-#  videos__description:
+videos__settings:
+  enable: false
+  videos__title: Latest Videos
+  videos__description:
 
 
 #-------------------------------
 # Tag Section Settings
-# tag__settings:
-#  enable: true
-#  tag: travel # To display the tag section, specify your favorite tag.
+ tag__settings:
+  enable: false
+  tag: music # To display the tag section, specify your favorite tag.
 
 
 #-------------------------------
