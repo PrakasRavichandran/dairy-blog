@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Painful Days - My Journey Through Pain and Redemption
+title: Painful Days My Journey Through Pain and Redemption
 description: It's been a rollercoaster of emotions, a tumultuous journey through the depths of despair and the heights of strength.
 date: 2023-09-14 11:50:00 +0300
 author: prakash
