@@ -66,7 +66,7 @@
             
                     {% if author %}
                     <a href="{{ author.url }}" class="article__author__image">
-                      <img class="lazy" data-src="{{ author.image }}" alt="{{ author.name }}">
+                      <img class="lazy" data-src="{{site.baseurl}}/{{ author.image }}" alt="{{ author.name }}">
                     </a>
                     {% else %}
                     <a href="{{site.baseurl}}/about/" class="article__author__image">
@@ -77,7 +77,7 @@
             
                     <div class="article__meta__bottom">
                       {% if author %}
-                      <a class="article__author__name" href="{{ author.url }}">{{ author.name }}</a>
+                      <a class="article__author__name" href="{{site.baseurl}}/{{ author.url }}">{{ author.name }}</a>
                       {% else %}
                       <a class="article__author__name" href="{{site.baseurl}}/about/">{{site.data.settings.author.author__name}}</a>
                       {% endif %}
