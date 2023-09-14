@@ -18,17 +18,29 @@ I started by watching the masters of music from South India – legends like Ila
 
 The internet became my guide and mentor. With countless tutorials and lessons at my disposal, I began to teach myself how to play the keyboard piano. It was a daunting task, but I was determined to overcome the pain that had engulfed me for so long.
 
+<video width="640" height="360" controls autoplay>
+  <source src="/videos/PunnagaiMannan.mp4" type="video/mp4">
+</video>
+
 In the beginning, I found solace in playing sad background music. It resonated with the depths of my own sorrow. Each note seemed to mirror the ache in my heart, and the keyboard became an outlet for my pent-up emotions. As I played, I could feel the weight of my sadness slowly lifting, like a dark cloud dispersing to reveal a glimmer of sunlight.
 
 As time went on, I started experimenting with different types of music. I ventured into the realms of joy, nostalgia, and even excitement. With each new melody, I discovered a piece of myself that had been buried beneath the pain. The keyboard piano became a vessel for my emotions, allowing me to express what words couldn't convey.
 
 Today, I can proudly say that I've come a long way on this musical journey. The keyboard piano has not only helped me heal but has also become an integral part of my life. It's my refuge, my confidant, and my source of strength.
 
+<video width="640" height="360" controls autoplay>
+  <source src="/videos/KadhalKonden.mp4" type="video/mp4">
+</video>
+
 During those dark nights when my heart felt shattered into a million pieces, the music of *Mastro Ilayaraja* served as my sleeping dose. His compositions had the power to soothe my soul and ease me into a peaceful slumber. To him, I say, *"Thank you, Sir,"* for being the lighthouse in my stormy sea.
 
 I have learned that even in our darkest moments, there is always a glimmer of hope, a lifeline waiting for us to reach out and grasp it. For me, that lifeline was the keyboard piano and the music that flowed through it. It's a reminder that we have the power to heal ourselves, even when it seems impossible.
 
 So, to anyone out there who may be going through their own trials and tribulations, I encourage you to find your own lifeline, your own source of healing. It might be music, art, or any form of expression that speaks to your soul. Embrace it, nurture it, and let it guide you towards the light. Just as I found my way back to life through the keyboard piano, you too can discover your path to rebirth and healing.
+
+<video width="640" height="360" controls autoplay>
+  <source src="/videos/I.mp4" type="video/mp4">
+</video>
 
 In the end, it's the journey that matters, and the keyboard piano has been a beautiful chapter in mine.
 
@@ -37,3 +49,7 @@ With each note I play, I am reminded that there is beauty in pain and hope in de
 Music truly is the universal language of the soul, and it has the power to heal even the deepest wounds. I am living proof of that.
 
 Thank you for joining me on my journey, and may you find your own music to heal your heart and soul.
+
+<video width="640" height="360" controls autoplay>
+  <source src="/videos/HeyRam.mp4" type="video/mp4">
+</video>
