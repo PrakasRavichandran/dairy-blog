@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Anonyville
-logo: # You can add own logo. For example '/images/logo.png'.
-description: ...
+title: Prakash Dairies
+logo: '/images/logo.png'
+description: Prakash Daires is a Personal blog 
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -24,15 +24,18 @@ menu__settings:
 # Hero Settings
 hero:
   enable: true
+  hero__title: Thoughts, stories and ideas.
+  hero__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
   hero__image: # You can add hero image. For example '/images/06.jpg'
+
 
 
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Mitchell Lisle
-  author__bio: ...
-  author__avatar: /images/01-1.jpg
+  author__name: Prakash Ravichandran
+  author__bio: I’m a published content creator, project manager and web devloper.
+  author__avatar: /images/heros.jpg
 
 
 #-------------------------------
@@ -55,28 +58,29 @@ videos__settings:
 # Tag Section Settings
 tag__settings:
   enable: false
-  tag: travel # To display the tag section, specify your favorite tag.
+  tag: music # To display the tag section, specify your favorite tag.
 
 
 #-------------------------------
 # Author Section Settings
-author__section:
-  enable: false
-  author__section__title: Hello, my name is Alena. I’m reviewer and content creator.
-  author__section__description: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
+  author__section:
+  enable: true
+  author__section__title: Hello, I’m Prakash. I’m a published content creator, project manager and web devloper.
+  author__section__description: Project Manager by day, weights by night, Introvert at heart, Blogger of thoughts, Web Developer in action, Pianist in harmony with life
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
-  author__section__big__image: /images/100.jpg
-  author__section__small__image: /images/101.jpg
+  author__section__big__image: /images/heros.jpg
+  author__section__small__image: /images/hero.jpg
+
 
 
 #-------------------------------
 # Newsletter Settings
 mailchimp__settings:
-  enable: false
+  enable: true
   mailchimp__title: Get interesting news
-  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
-  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of Editor Pick Posts.
+  mailchimp__identifier: forms.gle/LRzbYVK55w4H7FFHA # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__input__text: Your email address
   mailchimp__button__text: Subscribe
   mailchimp__background__image: /images/subscribe-bg.jpg
@@ -84,14 +88,15 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description: 
+footer__description: In the darkness of a broken heart, he searched for the light that once made him feel alive
 
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com/mitchelllisle"}
-- {icon: "github", link: "https://github.com/mitchelllisle"}
-- {icon: "linkedin", link: "https://www.linkedin.com/in/mlisle/"}
+- {icon: "instagram", link: "https://instagram.com/prakashravichandrann"}
+- {icon: "linkedin", link: "https://linkedin.com/in/prakashravichandran10"}
+- {icon: "github", link: "https://github.com/PrakasRavichandran"}
+- {icon: "wordpress", link: "https://prakashravichandran.com/"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -106,16 +111,13 @@ footer__menu__settings:
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
-
+    
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: m.lisle90@email.com # Add your form_id
-  description: ...
-
-# NOTE
-# Mria theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+  email: xjvqrpjl   # Add your form_id
+  description: Feel free to drop me a message anytime. I'm here to connect with you and hear your thoughts, questions, or just have a friendly chat. Your messages are always welcome.
 
 
 #-------------------------------
