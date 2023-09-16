@@ -2,7 +2,7 @@
 layout: post
 title: Lessons from a Life Well Lived My Beloved Grandma's Legacy
 description: In the tapestry of life, there are certain threads that stand out, weaving a narrative of strength, resilience, and unwavering love 
-date:   2023-09-16 12:30:35 +0300
+date: 2023-09-16 12:30:35 +0300
 author: prakash
 image: '/images/24.jpg'
 video_embed: false
