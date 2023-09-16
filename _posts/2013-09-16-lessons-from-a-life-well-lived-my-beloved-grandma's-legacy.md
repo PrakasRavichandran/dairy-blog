@@ -54,3 +54,5 @@ This Diwali, I plan to surprise her. I'll gift her a new saree, jewelry, and all
 ### Conclusion 
 
 My grandma is, and always will be, the greatest woman in my life. Her life story teaches me that true wealth is not measured in material possessions but in the love, wisdom, and humility that we share with others. As I walk this path of life, I carry her lessons with me, and her legacy lives on in my heart.
+
+>Grandma's love and wisdom, a timeless gift that continues to shape my journey
