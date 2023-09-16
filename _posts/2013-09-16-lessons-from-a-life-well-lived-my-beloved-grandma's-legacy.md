@@ -16,7 +16,7 @@ In the tapestry of life, there are certain threads that stand out, weaving a nar
 
 ### Early Lessons in Hard Work
 
-As I look back on my life, I am reminded of the invaluable lessons my grandma imparted to me. From an early age, she instilled in me the value of hard work. In her mid-70s, she continues to toil in our farm, a testament to her indomitable spirit. She never adorned herself in expensive clothes or jewelry; instead, she saved every penny for her grandsons.
+As I look back on my life, I am reminded of the invaluable lessons my grandma imparted to me. From an early age, she instilled in me the value of hard work. In her mid-70s, she continues to toil on our farm, a testament to her indomitable spirit. She never adorned herself in expensive clothes or jewelry; instead, she saved every penny for her grandsons.
 
 ### A Humble Life
 
@@ -44,7 +44,7 @@ After the loss of my grandpa, she embraced solitude with strength. Her unwaverin
 
 ### A Longing Heart
 
-Today, as I find myself miles away from home, working in Chengalpattu, I can't help but miss her terribly. My salary may have grown, but it's her love and wisdom that continue to sustain me.
+Today, as I find myself miles away from home, working in Chengalpattu, I can't help but miss her terribly. My salary may have grown, but it's her love and wisdom that continues to sustain me.
 
 ### A Diwali Surprise
 
