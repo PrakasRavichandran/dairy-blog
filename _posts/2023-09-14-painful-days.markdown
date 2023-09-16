@@ -8,6 +8,7 @@ image: '/images/broken.jpg'
 video_embed: false
 tags: [broken]
 tags_color: '#000000'
+featured: true
 ---
 
 It's been a rollercoaster of emotions, a tumultuous journey through the depths of despair and the heights of strength. From June 2022 to March 2023, my life took an unexpected turn, and I found myself facing challenges I never thought I could overcome. This is my story of how I navigated through the darkest moments of my life and emerged stronger than ever before.
