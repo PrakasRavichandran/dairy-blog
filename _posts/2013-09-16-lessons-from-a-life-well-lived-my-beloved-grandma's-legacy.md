@@ -11,6 +11,7 @@ tags_color: '#4174c0'
 featured: true
 ---
 
+## A Gentleman's Journey Honoring the Wisdom of My Beloved Grandma
 
 In the tapestry of life, there are certain threads that stand out, weaving a narrative of strength, resilience, and unwavering love. My beloved grandma is one of those threads, an embodiment of wisdom and simplicity that has shaped my journey into a gentleman.
 
