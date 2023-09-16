@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Lessons from a Life Well Lived My Beloved Grandma's Legacy
+title:  "Lessons from a Life Well Lived My Beloved Grandma's Legacy"
 description:  
 date:   2023-09-16 12:30:35 +0300
 author: prakash
-image:  '/images/24.jpg'
+image: '/images/24.jpg'
 video_embed: false
-tags:  [family]
+tags: [family]
 tags_color: '#4174c0'
 featured: true
 ---
