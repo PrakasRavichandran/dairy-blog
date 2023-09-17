@@ -2,11 +2,12 @@
 layout: post
 title:  The Melodies of Longing My Favorite Love Songs
 description: I invite you into the enigmatic world of a person who has mastered the art of secrecy and mystery
-date:  2023-09-17 23:40:35 +0300
+date:   2023-09-17 23:40:35 +0300
 author: prakash
-video_embed: true
-tags:  [music]
-tags_color: '#ff0000'
+image:  
+video_embed: https://www.youtube.com/embed/Agi5dWi-Q-w
+tags:   [music]
+tags_color: '#6d361f'
 featured: true
 ---
 
@@ -59,4 +60,3 @@ Thank you for joining me on this personal journey through the melodies of longin
 <p><iframe src="https://www.youtube.com/embed/zUcZKys9qc4" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p><br><br>
 
 <p><iframe src="https://www.youtube.com/embed/Agi5dWi-Q-w" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p><br><br>
-
