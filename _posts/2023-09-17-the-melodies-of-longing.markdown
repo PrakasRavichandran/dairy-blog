@@ -5,7 +5,6 @@ description: I invite you into the enigmatic world of a person who has mastered 
 date: 2023-09-17 18:40:35 +0300
 author: prakash
 image: '/images/26.jpg'
-video_embed: true
 tags: [music]
 tags_color: '#6d361f'
 featured: true
