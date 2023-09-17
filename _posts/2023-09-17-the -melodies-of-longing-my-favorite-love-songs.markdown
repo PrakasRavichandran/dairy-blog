@@ -4,8 +4,8 @@ title:  The Melodies of Longing My Favorite Love Songs
 description: I invite you into the enigmatic world of a person who has mastered the art of secrecy and mystery
 date:  2023-09-17 23:20:35 +0300
 author: prakash
-video_embed: https://www.youtube.com/embed/Agi5dWi-Q-w
-tags:   [private]
+video_embed: true
+tags:  [music]
 tags_color: '#ff0000'
 featured: true
 ---
