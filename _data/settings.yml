@@ -73,7 +73,7 @@ tag__settings:
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
   author__section__big__image: /images/heros.jpg
-  author__section__small__image: /images/hero.jpg
+  author__section__small__image: #/images/hero.jpg
 
 
 
