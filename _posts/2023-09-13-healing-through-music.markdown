@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Healing Through Music My Journey with the Keyboard Piano
-description: Life has a funny way of pushing us to our limits
+description:
 date: 2023-09-13 22:22:35 +0300
 author: prakash
 image: '/images/music.jpg'
