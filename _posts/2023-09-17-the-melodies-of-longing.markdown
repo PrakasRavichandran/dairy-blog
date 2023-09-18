@@ -6,7 +6,7 @@ date: 2023-09-17 18:40:35 +0300
 author: prakash
 image: '/images/26.jpg'
 tags: [music]
-tags_color: '#6d361f'
+tags_color: '#a149cb'
 featured: true
 ---
 
