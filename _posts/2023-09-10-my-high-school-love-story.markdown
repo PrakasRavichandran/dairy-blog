@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Pages of Innocence My High School Love Story
-description: love letters turn into comedy scripts, and innocence is the star of the show
+description:
 date:   2023-09-10 22:15:35 +0300
 author: prakash
 image:  '/images/00.jpg'
