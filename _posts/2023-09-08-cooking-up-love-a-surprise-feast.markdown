@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Cooking Up Love A Surprise Feast for Mom and Dad's Special Day
-description:  On September 11, 2022, I woke up to the realization that it was my mom and dad's wedding anniversary.
+description:
 date:   2023-09-08 22:15:35 +0300
 author: prakash
 image:  '/images/16.jpg'
