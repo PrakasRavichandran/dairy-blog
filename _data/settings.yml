@@ -14,8 +14,6 @@ menu__settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Tags'
-      url: '/tags'
     - title: 'Authors'
       url: '/authors'
     - title: 'About'
@@ -37,6 +35,7 @@ hero:
 #-------------------------------
 # Author Global Settings
 author:
+  enable: true
   author__name: Prakash Ravichandran
   author__bio: I’m a published content creator, project manager and web devloper.
   author__avatar: /images/heros.jpg
@@ -45,7 +44,7 @@ author:
 #-------------------------------
 # Blog Section Settings
 blog__settings:
-  enable: true
+  enable: false
   blog__title: Latest Posts
   blog__description:
 
@@ -61,8 +60,8 @@ videos__settings:
 #-------------------------------
 # Tag Section Settings
 tag__settings:
-  enable: true
-  tag: private # To display the tag section, specify your favorite tag.
+  enable: false
+  tag: # To display the tag section, specify your favorite tag.
 
 
 #-------------------------------
