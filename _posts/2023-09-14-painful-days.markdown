@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Journey Through Pain and Redemption
-description: Its been a rollercoaster of emotions, a tumultuous journey through the depths of despair and the heights of strength.
+description:
 date: 2023-09-14 11:50:00 +0300
 author: prakash
 image: '/images/broken.jpg'
