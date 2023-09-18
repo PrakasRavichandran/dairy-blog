@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Jinglee The Legacy of My Grandpa's Beloved Goats
-description:  Once upon a time, in a small village nestled amidst rolling hills and endless green pastures, lived my dear grandpa to maintain life.
+description: 
 date:   2023-09-06 15:20:35 +0300
 author: prakash
 image:  '/images/11.jpg'
