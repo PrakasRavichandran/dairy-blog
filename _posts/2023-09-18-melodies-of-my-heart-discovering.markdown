@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Melodies of My Heart Discovering Beauty in Music
-description: An unexpected twist in my life's soundtrack
+description:
 date: 2023-09-18 12:00:00 +0300
 author: prakash
 image: '/images/27.jpg'
