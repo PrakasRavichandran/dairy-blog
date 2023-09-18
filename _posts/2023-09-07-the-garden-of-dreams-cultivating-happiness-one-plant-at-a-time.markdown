@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  The Garden of Dreams Cultivating Happiness, One Plant at a Time
-description:  As November 30, 2022 dawned, I embarked on an unexpected journey
+title: The Garden of Dreams Cultivating Happiness, One Plant at a Time
+description:
 date:   2023-09-07 14:10:35 +0300
 author: prakash
 image:  '/images/05.jpg'
