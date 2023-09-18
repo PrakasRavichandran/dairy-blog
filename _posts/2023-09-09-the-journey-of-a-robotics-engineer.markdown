@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Journey of a Robotics Engineer From Vibes to Triumph
-description:  It all began with a dream and a job offer. I packed my bags, ready to embrace
+description:
 date:   2023-09-09 22:15:35 +0300
 author: prakash
 image:  '/images/20.jpg'
