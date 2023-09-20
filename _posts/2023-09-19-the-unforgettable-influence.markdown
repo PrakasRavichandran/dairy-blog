@@ -31,6 +31,8 @@ Entering college for my engineering degree, I often thought about the trust Ms. 
 ### Unforgettable Words
 I couldn't maintain contact with Ms. Nadhini after leaving school, but her words continued to echo in my mind. Other students would tell her about me, and her response, "He is a gentleman and he is my student," filled me with pride.
 
+![Goat]({{site.baseurl}}/images/31.jpg)
+
 ### A Shoulder to Lean On
 In moments of sadness or difficulty, Ms. Nadhini was always there. She would invite me to sit near her and ask about the source of my troubles. Her caring nature provided solace during my toughest times.
 
