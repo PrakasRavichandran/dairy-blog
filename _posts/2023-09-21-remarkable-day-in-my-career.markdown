@@ -1,4 +1,4 @@
-![image](https://github.com/PrakashRavichandrann/Personal-Blog/assets/136160413/04bf4f92-829e-48da-b262-523f565a9c39)---
+---
 layout: post
 title: From Office Enthusiast to Project Manager My Unforgettable Journey
 description:
