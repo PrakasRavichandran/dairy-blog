@@ -4,7 +4,7 @@ title: From Office Enthusiast to Project Manager My Unforgettable Journey
 description:
 date: 2023-09-21 12:00:00 +0300
 author: prakash
-image: '/images/35.jpeg'
+image: '/images/35.jpg'
 video_embed: false
 tags: [career]
 tags_color: '#438BA7'
@@ -71,14 +71,14 @@ The pinnacle of my journey came when my CEO handed me a sealed envelope. With tr
 
 >Life is 10% what happens to us and 90% how we react to it
 
-![PM]({{site.baseurl}}/images/43.jpg)
+![Letter]({{site.baseurl}}/images/43.jpg)
 *Photo by [Prakash](https://prakashravichandran.com/)*
 
 ### Celebrating Together 
 
 That evening, my colleagues and I gathered outside the office to celebrate. The laughter, camaraderie, and the delicious food made it a night to remember. It was the perfect culmination of a remarkable day that I'll forever hold close to my heart.
 
->![PM]({{site.baseurl}}/images/36.jpg)
+![Dinner]({{site.baseurl}}/images/36.jpg)
 *Photo by [Prakash](https://prakashravichandran.com/)*
 
 >Joy shared is twice the joy; sorrow shared is half the sorrow
