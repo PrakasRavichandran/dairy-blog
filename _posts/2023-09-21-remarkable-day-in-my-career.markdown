@@ -87,6 +87,9 @@ That evening, my colleagues and I gathered outside the office to celebrate. The 
 
 My journey from an office enthusiast to a project manager has been nothing short of incredible. It has taught me that when you find joy in your work, every day becomes an adventure. So, whether I'm designing, writing, or dancing in the TV room, I'll continue to embrace each moment with enthusiasm and gratitude. This is a day I'll cherish forever, a reminder that life's best surprises often come when you least expect them.
 
+![cicuit]({{site.baseurl}}/images/34.jpg)
+*Photo by [Prakash](https://prakashravichandran.com/)*
+
 ![cicuit]({{site.baseurl}}/images/40.jpg)
 *Photo by [Prakash](https://prakashravichandran.com/)*
 
