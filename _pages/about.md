@@ -2,27 +2,24 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/102.jpg'
+image: '/images/ab.png'
 ---
+**About Prakash Daries**
 
-In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.
+Welcome to Prakash Daries, my digital haven and creative outlet! I'm Prakash, a self-proclaimed gym enthusiast, pianist, and dedicated project manager. As someone who has faced the ups and downs of life, I've come to realize that channeling my energy into productive pursuits is not just a choice but a necessity.
 
-> Sing like no one’s listening, love like you’ve never been hurt, dance like nobody’s watching, and live like it’s heaven on earth.
+My journey has been far from conventional. I've walked a path less traveled, often feeling like I'm navigating life's labyrinth alone. In a world where social connections are prized, I've found solace in the solitude of my passions.
 
-Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.
+**The Gym Enthusiast:** My journey towards fitness has been a source of strength, both physically and mentally. The iron weights have become my confidants, pushing me to achieve new milestones and reminding me that resilience can be found in the repetition of effort.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/103.jpg" loading="lazy">
-    <img src="/images/104.jpg" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+**The Pianist:** Music has been my companion in moments of solitude. The piano keys have whispered secrets of emotion and artistry, providing me with a means of expression when words fall short. The melodies I create resonate not only in my heart but in the hearts of those who listen.
 
-Nonformal learning is organized learning outside the formal learning system. For example, learning by coming together with people with similar interests and exchanging viewpoints, in clubs or in (international) youth organizations, workshops.
+**The Project Manager:** In the world of deadlines and deliverables, I've honed my skills as a project manager. The chaos of planning and execution is where I thrive, finding satisfaction in turning ideas into reality.
 
-Informal learning is less structured than "nonformal" one. It may occur through the experience of day-to-day situations (for example, one would learn to look ahead while walking because of the danger inherent in not paying attention to where one is going). It is learning from life, during a meal at the table with parents, play, exploring, etc.
+Life has thrown its share of challenges my way, especially in the past five months. The pain and heartache I've endured have left indelible scars, but they've also ignited a fire within me to protect myself from those haunting memories. Prakash Daries is my sanctuary, a place where I can share my thoughts, experiences, and the lessons I've learned along the way.
 
-<p><iframe src="https://player.vimeo.com/video/148003889?h=d36b8b4cbb" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
+Through this blog, I aim to inspire and connect with those who, like me, have experienced loneliness, setbacks, and adversity. Together, we can navigate life's unpredictable journey and find strength in our passions and pursuits. Join me as I document my ongoing transformation, share my insights, and explore the infinite possibilities that life has to offer.
 
-The educational system may use a combination of formal, informal, and nonformal learning methods. The UN and EU recognize these different forms of learning (cf. links below). In some schools, students can get points that count in the formal-learning systems if they get work done in informal-learning circuits. They may be given time to assist international youth workshops and training courses, on the condition they prepare, contribute, share, and can prove this offered valuable new insight, helped to acquire new skills, a place to experience.
+Thank you for joining me on this adventure. Let's embark on this journey of self-discovery and growth together.
+
+>Stay hungry for success, and life will serve you the most satisfying feast.
