@@ -4,7 +4,7 @@ title:  Rising from the Ashes My Transformation After Leaving Someone
 description: 
 date:   2023-09-30 12:00:35 +0300
 author: prakash
-image:  '/images/45.jpg'
+image:  '/images/51.jpg'
 video_embed: false
 tags:  [selfcare]
 tags_color: '#EF5455'
