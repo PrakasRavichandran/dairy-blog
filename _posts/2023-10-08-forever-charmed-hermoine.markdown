@@ -4,7 +4,7 @@ title:  Forever Charmed My Childhood Crush on Hermione Granger
 description: 
 date:   2023-10-08 12:00:35 +0300
 author: prakash
-image:  '/images/46.jpg'
+image:  '/images/52.jpg'
 video_embed: false
 tags:  [childhood]
 tags_color: '#e638b1'
