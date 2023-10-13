@@ -23,7 +23,7 @@ In 2008, on a regular evening, I stumbled upon a world unlike any other. The enc
 
 As a child, Hermione instantly captured my heart. She was not just cute; she embodied kindness, brilliance, and unwavering loyalty. Her character was a beacon of warmth and strength amidst the magical chaos of Hogwarts.
 
-![](![Hermoine]({{site.baseurl}}/images/47.jpg))
+![Hermoine]({{site.baseurl}}/images/47.jpg)
 
 ### Loyalty Beyond Measure*
 
@@ -31,7 +31,7 @@ As a child, Hermione instantly captured my heart. She was not just cute; she emb
 
 Hermione's loyalty to Harry Potter was a testament to true friendship. Even when he insulted and hurt her, she stood by his side, never leaving him to face the challenges of the wizarding world alone. Her unwavering support was a guiding light in the darkest of times.
 
-![](![Hermoine]({{site.baseurl}}/images/48.jpg))
+![Hermoine]({{site.baseurl}}/images/48.jpg)
 
 ### Love, Loss, and Resilience*
 
@@ -39,7 +39,7 @@ Hermione's loyalty to Harry Potter was a testament to true friendship. Even when
 
 Hermione's journey was not without heartache. When her boyfriend, Ron Weasley, cheated on her, she didn't hide her pain. Instead, she turned to Harry, sharing her tears and finding solace in his comforting presence. It was a poignant moment that showcased her vulnerability and resilience.
 
-![](![Hermoine]({{site.baseurl}}/images/49.jpg))
+![Hermoine]({{site.baseurl}}/images/49.jpg)
 
 ### The Magic of Growth*
 
@@ -47,7 +47,7 @@ Hermione's journey was not without heartache. When her boyfriend, Ron Weasley, c
 
 The "Harry Potter" franchise spanned a decade and ten magical movies. The child actors grew before our eyes, but Hermione, played by Emma Watson, remained eternally captivating. Her timeless charm continued to captivate hearts, even after 15 years.
 
-![](![Hermoine]({{site.baseurl}}/images/50.jpg))
+![Hermoine]({{site.baseurl}}/images/50.jpg)
 
 ### Hermione, My Forever Crush*
 
@@ -55,7 +55,7 @@ The "Harry Potter" franchise spanned a decade and ten magical movies. The child 
 
 In a world where countless heroines have graced our screens, Hermione Granger remains my unwavering favorite. She is not just a childhood crush but a symbol of enduring charm, kindness, and the magic of the heart.
 
-![](![Hermoine]({{site.baseurl}}/images/51.gif))
+![Hermoine]({{site.baseurl}}/images/51.gif)
 
 ### The Everlasting Enchantment*
 
