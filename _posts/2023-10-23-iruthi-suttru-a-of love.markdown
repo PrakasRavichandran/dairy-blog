@@ -5,7 +5,7 @@ description:
 date:   2023-10-23 12:00:35 +0300
 author: prakash
 image:  
-video_embed: '/images/57.jpg'
+video_embed: '/images/53.jpg'
 tags:  [cinema]
 tags_color: '#FFF000'
 featured: true
@@ -19,7 +19,7 @@ In recent times, I had the chance to watch the Tamil film "Irudhi Suttru," a gri
 
 ### Love Lost and Regained
 
-![IS]({{site.baseurl}}/images/53.jpg)
+![IS]({{site.baseurl}}/images/57.jpg)
 
 The hero's life takes an unexpected turn when his wife leaves him for another boxer after he loses a championship match. In despair, he seeks solace in the arms of another woman. But amidst the chaos of his personal life, he remains unwaveringly genuine in his dedication to his students.
 
