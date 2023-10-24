@@ -4,8 +4,8 @@ title:  Irudhi Suttru A Tale of Grit, Redemption, and Unlikely Love
 description: 
 date:   2023-10-23 12:00:35 +0300
 author: prakash
-image:  
-video_embed: '/images/53.jpg'
+image: '/images/53.jpg' 
+video_embed: false
 tags:  [cinema]
 tags_color: '#FFF000'
 featured: true
