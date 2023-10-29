@@ -6,7 +6,7 @@ date:   2023-10-28 12:00:35 +0300
 author: prakash
 image: '/images/58.jpg' 
 video_embed: false
-tags:  [cinema]
+tags:  [career]
 tags_color: '#FF0000'
 featured: true
 ---
