@@ -19,7 +19,7 @@ This morning was different from the usual. As the sun stretched its golden finge
 
 ### A Melodic Commute
 
-With my earphones in place, I mounted my bike. The road ahead was adorned with the laughter and chatter of children on their way to school. Among them, I spotted Hema, a dear friend. Our eyes met, and in that fleeting moment, the world seemed to say goodbye to me with a smile.
+With my earphones in place, I mounted my bike. The road ahead was adorned with the laughter and chatter of children on their way to school. Among them, I spotted Hema, a little girl opposite my house, a dear friend. Our eyes met, and in that fleeting moment, the world seemed to say goodbye to me with a smile.
 
 >"Music can change the world because it can change people." - Bono
 
