@@ -8,6 +8,7 @@ image: '/images/59.jpg'
 video_embed: false
 tags: [Life]
 tags_color: '#000000'
+featured: true
 ---
 
 ### A Morning's Beauty
