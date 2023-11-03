@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Building My Muscles: A Journey of Dedication and Transformation
+title:  Building My Muscles A Journey of Dedication and Transformation
 description: 
-date:   2023-10-28 12:00:35 +0300
+date:   2023-11-03 12:00:35 +0300
 author: prakash
-image: '/images/58.jpg' 
+image: '/images/63.jpg' 
 video_embed: false
 tags:  [fitness]
-tags_color: '#FFFF00'
+tags_color: '#00308F'
 featured: true
 ---
 
