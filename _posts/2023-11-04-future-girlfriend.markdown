@@ -57,7 +57,7 @@ You need not worry about your future marriage. I am certain that you will marry 
 
 ### A Decade of Suppressed Feelings
 
-![gf]({{site.baseurl}}/images/76.jpg)
+![gf]({{site.baseurl}}/images/76.jpeg)
 *Photo by [Prakash](https://prakashravichandran.com/)*
 
 For a whole decade, I've been patiently suppressing my feelings, awaiting your arrival. You may be reading this letter a few years from now, but please know that my love for you has remained constant, and my excitement about our future together knows no bounds.
