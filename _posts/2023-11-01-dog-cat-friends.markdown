@@ -6,7 +6,7 @@ date: 2023-11-01 11:50:00 +0300
 author: prakash
 image: '/images/59.jpg'
 video_embed: false
-tags: [Life]
+tags: [friendship, family]
 tags_color: '#000000'
 featured: true
 ---
