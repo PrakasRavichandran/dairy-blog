@@ -6,7 +6,7 @@ date:   2023-10-08 12:00:35 +0300
 author: prakash
 image:  '/images/52.jpg'
 video_embed: false
-tags:  [childhood]
+tags:  [childhood, cinema]
 tags_color: '#e638b1'
 featured: true
 ---
