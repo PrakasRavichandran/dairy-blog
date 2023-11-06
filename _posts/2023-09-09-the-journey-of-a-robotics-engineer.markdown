@@ -6,7 +6,7 @@ date:   2023-09-09 22:15:35 +0300
 author: prakash
 image:  '/images/20.jpg'
 video_embed: false
-tags:  [travel]
+tags:  [travel, career]
 tags_color: '#00eaff'
 featured: true
 ---
