@@ -6,7 +6,7 @@ date:   2023-09-08 22:15:35 +0300
 author: prakash
 image:  '/images/16.jpg'
 video_embed: false
-tags:  [cooking]
+tags:  [cooking, family]
 tags_color: '#ff9a03'
 featured: true
 ---
