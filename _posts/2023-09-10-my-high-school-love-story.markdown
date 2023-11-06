@@ -6,7 +6,7 @@ date:   2023-09-10 22:15:35 +0300
 author: prakash
 image:  '/images/00.jpg'
 video_embed: false
-tags:  [love]
+tags:  [love, school]
 tags_color: '#fe0083'
 featured: true
 ---
