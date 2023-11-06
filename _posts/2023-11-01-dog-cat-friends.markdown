@@ -7,7 +7,7 @@ author: prakash
 image: '/images/59.jpg'
 video_embed: false
 tags: [friendship, family]
-tags_color: '#004225'
+tags_color: '#6554AF'
 featured: true
 ---
 
