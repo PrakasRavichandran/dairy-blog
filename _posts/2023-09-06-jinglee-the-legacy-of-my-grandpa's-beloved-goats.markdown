@@ -6,7 +6,7 @@ date:   2023-09-06 15:20:35 +0300
 author: prakash
 image:  '/images/11.jpg'
 video_embed: false
-tags:  [lifestyle]
+tags:  [pet]
 tags_color: '#4c49cb'
 featured: true
 ---
