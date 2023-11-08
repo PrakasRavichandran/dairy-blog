@@ -28,7 +28,7 @@ hero:
   enable: true
   hero__title: Thoughts, stories and ideas.
   hero__description: The most valuable treasure in the world is trust, a priceless currency that cheap people can never afford
-  hero__image: # You can add hero image. For example '/images/06.jpg'
+  hero__image: '/images/19.jpg'
 
 
 #-------------------------------
