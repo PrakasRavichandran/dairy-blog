@@ -65,21 +65,10 @@ tag__settings:
 
 #-------------------------------
 # Author Section Settings
-#  author__section:
-#  enable: true
-#  author__section__title: Hello, I’m Prakash. I’m a published content creator, project manager, and web developer.
-#  author__section__description: Project Manager by day, weights by night, Introvert at heart, Blogger of thoughts, Web Developer in action, Pianist in harmony with life
-#  aurhor__section__button__text: More About Me
-#  aurhor__section__button__link: /about
-#  author__section__big__image: /images/heros.jpg
-#  author__section__small__image: #/images/hero.jpg
-
-#-------------------------------
-# Author Section Settings
 author__section:
   enable: true
-  author__section__title: Hello, my name is Prakash. I’m a web developer and content creator.
-  author__section__description: I’m a published content creator, photographer and web devloper. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
+  author__section__title: My name is Prakash. 
+  author__section__description: In the orchestration of projects, I am the maestro, weaving intricate threads as a Project Manager. As an Embedded Electrical Electronics Engineer, I dive into the symphony of circuits. A gym enthusiast sculpting resilience, a blogger painting thoughts, a pianist dancing on keys, and a motivated sigma navigating life composition. Introverted by nature, yet in every silent note, a story unfolds
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
   author__section__big__image: /images/hero.jpg
