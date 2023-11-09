@@ -8,7 +8,7 @@ image: '/images/78.jpg'
 video_embed: false
 tags: [college]
 tags_color: '#435BA7'
-feature: true
+featured: true
 ---
 
 ### From Idea to Reality
