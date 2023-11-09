@@ -65,15 +65,25 @@ tag__settings:
 
 #-------------------------------
 # Author Section Settings
-  author__section:
+#  author__section:
+#  enable: true
+#  author__section__title: Hello, I’m Prakash. I’m a published content creator, project manager, and web developer.
+#  author__section__description: Project Manager by day, weights by night, Introvert at heart, Blogger of thoughts, Web Developer in action, Pianist in harmony with life
+#  aurhor__section__button__text: More About Me
+#  aurhor__section__button__link: /about
+#  author__section__big__image: /images/heros.jpg
+#  author__section__small__image: #/images/hero.jpg
+
+#-------------------------------
+# Author Section Settings
+author__section:
   enable: true
-  author__section__title: Hello, I’m Prakash. I’m a published content creator, project manager, and web developer.
-  author__section__description: Project Manager by day, weights by night, Introvert at heart, Blogger of thoughts, Web Developer in action, Pianist in harmony with life
+  author__section__title: Hello, my name is Prakash. I’m a web developer and content creator.
+  author__section__description: I’m a published content creator, photographer and web devloper. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
-  author__section__big__image: /images/heros.jpg
-  author__section__small__image: #/images/hero.jpg
-
+  author__section__big__image: /images/hero.jpg
+  author__section__small__image: /images/heros.jpg
 
 
 #-------------------------------
