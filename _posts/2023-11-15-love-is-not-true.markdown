@@ -15,6 +15,8 @@ featured: true
 ### Introduction 
 A wise man once said, "The imaginary world is more beautiful than reality." Little did I know that this sentiment would resonate with me a decade ago, as I embarked on a journey fueled by love stories portrayed on the silver screen. What began as an innocent exploration of Tamil cinema's romantic tales ended with a profound shift in my perception of love and relationships.
 
+>அன்பில் தொடங்கி அன்பில் முடிக்கிறேன்
+
 ### 3: A Prelude to Love
 Ten years ago, I found myself captivated by the magic of Tamil cinema. I immersed myself in the world of love stories, particularly the enchanting narratives of the film "3" (Moonu). Little did I realize that these movies would become the catalyst for a personal quest—a quest for my own love story.
 
