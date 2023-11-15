@@ -2,7 +2,7 @@
 layout: post
 title:  A Decade Ago  Love, Loss, and Lessons Learned
 description: 
-date: 2023-11-15 11:50:00 +0300
+date: 2023-11-14 11:50:00 +0300
 author: prakash
 image: '/images/72.jpg'
 video_embed: false
