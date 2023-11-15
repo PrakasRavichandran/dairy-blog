@@ -8,7 +8,7 @@ image: '/images/72.jpg'
 video_embed: false
 tags: [love]
 tags_color: '#FE0083'
-feature: true
+featured: true
 ---
 
 
