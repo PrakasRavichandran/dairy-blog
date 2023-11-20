@@ -31,9 +31,6 @@ As I listened, I couldn't help but notice that many of my peers were treating lo
 ### A Gentleman's Perspective
 One day, I confided in a classmate about my confusion. I explained how I couldn't understand the casual attitude towards love and relationships around me. Her response surprised me: "You don't have shyness; you're a gentleman." It was a moment of pride for me.
 
-### Unveiling the Truth
-However, my newfound perspective had a twist. I eventually learned that my classmate, who had praised my outlook, was also involved in a physical relationship. It left me pondering even more about what my peers were really searching for.
-
 ### My Opinion
 In the end, my opinion remained unchanged. In this phase of life, I believed that the focus should be on acquiring knowledge and building a future. Love and relationships, while important, should not overshadow the pursuit of education and financial stability.
 
