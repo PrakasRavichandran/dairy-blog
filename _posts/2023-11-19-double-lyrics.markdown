@@ -8,7 +8,7 @@ image: '/images/80.jpg'
 video_embed: false
 tags: [lyrics]
 tags_color: '#EA1179'
-feature: true
+featured: true
 ---
 
 
