@@ -16,9 +16,6 @@ It's been a rollercoaster of emotions, a tumultuous journey through the depths o
 ### The Pain of Graduation 
 June 2022 marked the end of my college journey, a chapter filled with hard work, dreams, and aspirations. But as the graduation cap settled on my head, I couldn't help but feel a looming sense of uncertainty. The security of the familiar was slipping away, leaving behind a void filled with doubt and anxiety.
 
-### Betrayal by a Friend 
-Shortly after graduation, I experienced a different kind of pain — the betrayal of a close friend. Trust was shattered, and the wounds ran deep. The agony of being deceived by someone I considered family left scars that would take time to heal.
-
 ### Loss of an Innocent Soul 
 In the midst of my personal turmoil, tragedy struck once more. My beloved pet goat kid, a source of joy and comfort, was taken from me by fate. The pain of losing an innocent soul compounded my already heavy heart.
 
