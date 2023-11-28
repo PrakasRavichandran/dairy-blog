@@ -1,6 +1,6 @@
 # Prakash Daries Blog
 
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fprakashravichandrann.github.io%2FPersonal-Blog%2F&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fprakashdairies.netlify.app%2F&s=40&c=00ff00&bg=00000000&no=8&ff=electrolize&tb=&ta=" alt="visits">
 
 Welcome to Prakash Daries Blog! This repository contains the source code for the Prakash Daries blog, where we share insightful articles and resources related to various topics.
 
