@@ -66,10 +66,6 @@ As registrations poured in from 400 eager participants, the anticipation reached
 
 >Integrity is doing the right thing, even when no one is watching. - C.S. Lewis
 
-### Bonds Beyond Events
-
-In the midst of challenges, a genuine soul emerged. A fellow organizer from my class handled her responsibilities with unwavering honesty, earning my admiration. She not only became a trusted ally in the symposium but a cherished friend, adding a layer of warmth to the entire experience.
-
 ### Nostalgia in the Present
 
 Now, as I navigate the currents of my professional life, the memories of those spirited days linger. The faces, the laughter, the shared victories and defeats—all etched in the corridors of time. The symposium was not just an event; it was a chapter that shaped friendships and left an indelible mark.
