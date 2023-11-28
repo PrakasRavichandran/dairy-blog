@@ -42,7 +42,7 @@ While cruising along, a peculiar sight unfolded before me – a dog and a cat, t
 
 ### Reflections at the Office
 
-Upon reaching the office, I revisited the photos I had taken. Something in those images stirred a complex storm within me. I thought of a time before, when a girl was my confidante, my joy. We were inseparable, sharing even the minutest details of our lives. Yet, we were different in more ways than I can articulate – different tastes, perspectives, and genders. 
+Upon reaching the office, I revisited the photos I had taken. Something in those images stirred a complex storm within me. I thought of a time before when a girl was my confidante, my joy her name was Jinglee. We were inseparable, sharing even the minutest details of our lives. Yet, we were different in more ways than I can articulate – different tastes, perspectives, and genders. 
 
 Now, we stand on separate shores, our bridges dismantled. Once upon a time, anger was our only barrier, but now, it's an impenetrable silence. She was not just a friend; she was my universe.
 
