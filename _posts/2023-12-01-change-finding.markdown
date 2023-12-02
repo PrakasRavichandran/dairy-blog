@@ -54,7 +54,11 @@ Success in my career became more achievable as I streamlined my routine. Minimiz
 
 Believing in a higher power, especially the Tamil god Murugan, brought a sense of peace and purpose to my life. Visiting temples every Friday and listening to Murugan songs became a source of solace. Helping others in tough times has become my way of giving back to the world.
 
->In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.
+>"மனம் பித்தானாலும் முருகன் அருளால் முத்தாவேன்"
 
 ## Conclusion
 My journey towards a healthier and happier life has been transformative. By making positive choices and embracing change, I've not only improved my well-being but also found fulfillment in the simple joys of life. Life is a continuous journey of growth, and I am excited for the chapters yet to unfold.
+
+I try to help people who are in hard times and tough situations, and I find that to be quite rewarding.
+
+>நான் என்னுடைய வாழ்நாளில் யாருடைய உடலுக்கும் மனதுக்கும் துன்பம் தரமாட்டேன் துன்பபடுவோருக்கு என்னால் முடிந்த உதவிகளை செய்வேன்
