@@ -17,7 +17,7 @@ featured: true
 "Men love their bikes more than their girlfriends," they say. I never understood it until I bought my first bicycle earlier this year. Little did I know that it would kickstart a passionate journey into the world of bikes.
 
 
-## Discovering the Thrill: Inspired by Pollathavan**
+## Discovering the Thrill: Inspired by Pollathavan
 
 >Sometimes the road less traveled is less traveled for a reason.
 *A few months into cycling, I found myself captivated by the thunderous allure of bikes, thanks to the Tamil movie Pollathavan. The on-screen romance between the protagonist and his motorcycle ignited a spark within me.
@@ -25,7 +25,7 @@ featured: true
 ![new]({{site.baseurl}}/images/87.jpg)
 
 
-## Chennai Chronicles: Job Hunt and Bike Quest**
+## Chennai Chronicles: Job Hunt and Bike Quest
 
 >Life is a beautiful ride, especially if you have the right bike.
 
