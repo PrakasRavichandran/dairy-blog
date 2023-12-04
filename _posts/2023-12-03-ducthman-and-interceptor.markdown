@@ -20,7 +20,8 @@ featured: true
 ## Discovering the Thrill: Inspired by Pollathavan
 
 >Sometimes the road less traveled is less traveled for a reason.
-*A few months into cycling, I found myself captivated by the thunderous allure of bikes, thanks to the Tamil movie Pollathavan. The on-screen romance between the protagonist and his motorcycle ignited a spark within me.
+
+A few months into cycling, I found myself captivated by the thunderous allure of bikes, thanks to the Tamil movie Pollathavan. The on-screen romance between the protagonist and his motorcycle ignited a spark within me.
 
 ![new]({{site.baseurl}}/images/87.jpg)
 
