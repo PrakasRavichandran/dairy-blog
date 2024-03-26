@@ -22,7 +22,7 @@ Welcome to Prakash Daries Blog! This repository contains the source code for the
 To run the Prakash Daries blog locally, please follow these steps:
 
 1. Clone this repository: `git clone https://github.com/PrakasRavichandran/dairy-blog.git`
-2. Navigate to the project directory: `cd Personal-Blog`
+2. Navigate to the project directory: `cd dairy-blog`
 3. Compile SCSS to CSS using a compiler of your choice. For example, you can use `sass` command-line tool: `sass input.scss output.css`
 4. Link the compiled CSS file to your HTML files.
 5. Open the HTML files in your preferred web browser.
