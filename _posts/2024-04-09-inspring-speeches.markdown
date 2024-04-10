@@ -2,11 +2,11 @@
 layout: post
 title:  The Power of Inspiring Speeches
 description: 
-date: 2024-04-10 11:50:00 +0300
+date: 2024-04-09 11:50:00 +0300
 author: prakash
 image: 'https://alchetron.com/cdn/pattimandram-raja-6487b57a-cb48-45da-86e4-d7f18f4f372-resize-750.jpeg'
 video_embed: false
-tags: [Inspiration]
+tags: [inspiration]
 tags_color: '#FE0083'
 featured: true
 ---
