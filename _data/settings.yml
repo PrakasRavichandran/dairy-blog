@@ -97,9 +97,10 @@ social:
 - {icon: "github", link: "https://github.com/PrakasRavichandran"}
 - {icon: "linkedin", link: "https://www.linkedin.com/in/prakashravichandran10"}
 - {icon: "twitter", link: "https://twitter.com/Prakash_r10"}
+- {icon: "logo-figma", link: "https://www.figma.com/@prakash_ui"}
 - {icon: "instagram", link: "https://www.instagram.com/prakashravichandrann"}
-- {icon: "wordpress", link: "https://prakashravichandrann.vercel.app"}
-- {icon: "figma", link: "https://www.figma.com/@prakash_ui"}
+- {icon: "earth", link: "https://prakashravichandrann.vercel.app"}
+
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
