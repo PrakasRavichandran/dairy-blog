@@ -95,7 +95,11 @@ footer__description: In the darkness of a broken heart, he searched for the ligh
 # Social Links
 social:
 - {icon: "github", link: "https://github.com/PrakasRavichandran"}
-- {icon: "wordpress", link: "https://prakashravichandran.com/"}
+- {icon: "linkedin", link: "https://www.linkedin.com/in/prakashravichandran10"}
+- {icon: "twitter", link: "https://twitter.com/Prakash_r10"}
+- {icon: "instagram", link: "https://www.instagram.com/prakashravichandrann"}
+- {icon: "wordpress", link: "https://prakashravichandrann.vercel.app"}
+- {icon: "figma", link: "https://www.figma.com/@prakash_ui"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
