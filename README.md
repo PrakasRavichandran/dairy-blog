@@ -1,4 +1,4 @@
-<img src="prakash-dairies.svg" width="300" align="right" hspace="0" />
+<img src="prakash-dairies.svg" width="275" align="right" hspace="0" />
 
 ✨ &nbsp; Prakash Daries Blog 📑
 ======
