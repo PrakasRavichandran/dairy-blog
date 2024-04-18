@@ -1,6 +1,10 @@
-# Prakash Daries Blog
+<img src="prakash-dairies.svg" width="300" align="right" hspace="0" />
 
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fprakashdairies.netlify.app%2F&s=40&c=00ff00&bg=00000000&no=8&ff=electrolize&tb=&ta=" alt="visits">
+✨ &nbsp; Prakash Daries Blog 📑
+======
+
+
+<img src="https://custom-icon-badges.demolab.com/badge/Readers%20Count-17-blue.svg?logo=book&logoColor=white" width="15%" height="15%" alt="Readers Count">
 
 Welcome to Prakash Daries Blog! This repository contains the source code for the Prakash Daries blog, where we share insightful articles and resources related to various topics.
 
@@ -47,8 +51,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions, suggestions, or feedback, please feel free to reach out to us.
 
-*We hope you find the Prakash Daries Blog informative and engaging! Enjoy reading!*
+*We hope you find the Prakash Diaries Blog informative and engaging! Enjoy reading!*
 
+## Views
 
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fprakashdairies.netlify.app%2F&s=40&c=00ff00&bg=00000000&no=8&ff=electrolize&tb=&ta=" alt="visits">
 
 **Status: Not ready to be used**
