@@ -1,10 +1,10 @@
-<img src="prakash-dairies.svg" width="275" align="right" hspace="0" />
+<img src="prakash-dairies.svg" width="215" align="right" hspace="0" />
 
 ✨ &nbsp; Prakash Daries Blog 📑
 ======
 
 
-<img src="https://custom-icon-badges.demolab.com/badge/Readers%20Count-17-blue.svg?logo=book&logoColor=white" width="15%" height="15%" alt="Readers Count">
+<img src="https://custom-icon-badges.demolab.com/badge/Readers%20Count-17-blue.svg?logo=book&logoColor=white" width="45%" height="45%" alt="Readers Count">
 
 Welcome to Prakash Daries Blog! This repository contains the source code for the Prakash Daries blog, where we share insightful articles and resources related to various topics.
 
